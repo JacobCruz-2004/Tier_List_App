@@ -1,5 +1,6 @@
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
+import TierList from "./components/Tier_list";
 import "./App.css";
 
 import TestRoute from "./components/testRoute";
@@ -31,6 +32,7 @@ function App() {
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/test" element={<TestRoute />} />
+          <Route path="/tierlist" element={<TierList />} />
         </Routes>
       </Router>
 

@@ -13,14 +13,21 @@ const Home = () => {
         >
             {/* Container for buttons - positioned in the bottom half */}
             <div className="flex flex-col md:flex-row gap-4 h-1/2">
+
                 {/* On mobile: stacked vertically */}
                 {/* On desktop: side by side */}
-                <button className="bg-green-500 hover:bg-green-600 text-white rounded-lg flex-1 flex items-center justify-center text-lg font-semibold transition-colors">
-                    Button 1
-                </button>
+                <Link
+                to="/tierlist"
+                className="flex-1 flex items-center justify-center text-white rounded-lg text-lg font-semibold transition-colors bg-center bg-no-repeat bg-cover"
+                style={{
+                    backgroundImage: "url('/genshin-impact-by-mihoyo-z7gnmasdggfwuyyg.jpg')",
+                }}
+                >
+                Page 1
+                </Link>
 
-                <button className="bg-purple-500 hover:bg-purple-600 text-white rounded-lg flex-1 flex items-center justify-center text-lg font-semibold transition-colors">
-                    Button 2
+                <button className="flex-1 flex items-center justify-center bg-purple-500 hover:bg-purple-600 text-white rounded-lg text-lg font-semibold transition-colors">
+                Page 2
                 </button>
             </div>
         </div>
