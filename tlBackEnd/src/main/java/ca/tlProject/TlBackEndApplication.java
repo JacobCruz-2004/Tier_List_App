@@ -1,13 +1,13 @@
-package cruzjac.project.tier_list;
+package ca.tlProject;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class TierListApplication {
+public class TlBackEndApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(TierListApplication.class, args);
+		SpringApplication.run(TlBackEndApplication.class, args);
 	}
 
 }

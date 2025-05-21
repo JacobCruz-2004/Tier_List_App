@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-TierListApplication<tier_list>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "cruzjac.project.tier_list.TierListApplication",
+            "projectName": "tier_list",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-TlBackEndApplication<tlBackEnd>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "ca.tlProject.TlBackEndApplication",
+            "projectName": "tlBackEnd",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}

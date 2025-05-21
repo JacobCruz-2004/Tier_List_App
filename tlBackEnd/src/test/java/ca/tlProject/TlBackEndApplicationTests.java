@@ -1,10 +1,10 @@
-package cruzjac.project.tier_list;
+package ca.tlProject;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class TierListApplicationTests {
+class TlBackEndApplicationTests {
 
 	@Test
 	void contextLoads() {

@@ -3,7 +3,6 @@ import Footer from "@/components/Footer";
 import TierList from "./components/Tier_list";
 import "./App.css";
 
-import TestRoute from "./components/testRoute";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Home from "./components/Home";
 
@@ -31,7 +30,6 @@ function App() {
       <Router>
         <Routes>
           <Route path="/" element={<Home />} />
-          <Route path="/test" element={<TestRoute />} />
           <Route path="/tierlist" element={<TierList />} />
         </Routes>
       </Router>
