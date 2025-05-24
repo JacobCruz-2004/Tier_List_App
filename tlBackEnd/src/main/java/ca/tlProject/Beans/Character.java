@@ -6,6 +6,8 @@ import lombok.Data;
 @Data
 @AllArgsConstructor
 public class Character {
-    private String name;
+    private String characterName;
     private String element;
+    private int rarity;
+    private String weaponType;
 }

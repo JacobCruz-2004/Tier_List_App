@@ -22,7 +22,7 @@ function App() {
       <div
         className="absolute top-0 left-0 w-full z-[-1] pointer-events-none
                    h-[60vh] md:h-[60vh] sm:h-screen
-                   bg-gradient-to-b from-transparent from-30% to-white to-90%"
+                   bg-gradient-to-b from-transparent from-40% to-white to-95%"
       ></div>
 
       <Header />

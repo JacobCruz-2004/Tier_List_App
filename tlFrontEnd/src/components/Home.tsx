@@ -23,7 +23,7 @@ const Home = () => {
                     backgroundImage: "url('/genshin-impact-by-mihoyo-z7gnmasdggfwuyyg.jpg')",
                 }}
                 >
-                Page 1
+                Tier List
                 </Link>
 
                 <button className="flex-1 flex items-center justify-center bg-purple-500 hover:bg-purple-600 text-white rounded-lg text-lg font-semibold transition-colors">

@@ -8,7 +8,7 @@ const TierList = () => {
     }
     , [response]);
     return (
-        <div>
+        <div className="h-screen">
             data
         </div>
     )
