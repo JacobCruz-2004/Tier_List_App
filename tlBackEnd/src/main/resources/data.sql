@@ -17,7 +17,7 @@ INSERT INTO characters (characterName, element, rarity, weaponType) VALUES ('Gam
 INSERT INTO characters (characterName, element, rarity, weaponType) VALUES ('Traveler', 'Pyro', 5, 'Sword');
 INSERT INTO characters (characterName, element, rarity, weaponType) VALUES ('Diluc', 'Pyro', 5, 'Claymore');
 INSERT INTO characters (characterName, element, rarity, weaponType) VALUES ('Klee', 'Pyro', 5, 'Catalyst');
-INSERT INTO characters (characterName, element, rarity, weaponType) VALUES ('Hu Tao', 'Pyro', 5, 'Polearm');
+INSERT INTO characters (characterName, element, rarity, weaponType) VALUES ('Hu_Tao', 'Pyro', 5, 'Polearm');
 INSERT INTO characters (characterName, element, rarity, weaponType) VALUES ('Yoimiya', 'Pyro', 5, 'Bow');
 INSERT INTO characters (characterName, element, rarity, weaponType) VALUES ('Dehya', 'Pyro', 5, 'Claymore');
 INSERT INTO characters (characterName, element, rarity, weaponType) VALUES ('Lyney', 'Pyro', 5, 'Bow');
@@ -30,15 +30,15 @@ INSERT INTO characters (characterName, element, rarity, weaponType) VALUES ('Bei
 INSERT INTO characters (characterName, element, rarity, weaponType) VALUES ('Lisa', 'Electro', 4, 'Catalyst');
 INSERT INTO characters (characterName, element, rarity, weaponType) VALUES ('Razor', 'Electro', 4, 'Claymore');
 INSERT INTO characters (characterName, element, rarity, weaponType) VALUES ('Sara', 'Electro', 4, 'Bow');
-INSERT INTO characters (characterName, element, rarity, weaponType) VALUES ('Kuki Shinobu', 'Electro', 4, 'Sword');
+INSERT INTO characters (characterName, element, rarity, weaponType) VALUES ('Kuki_Shinobu', 'Electro', 4, 'Sword');
 INSERT INTO characters (characterName, element, rarity, weaponType) VALUES ('Dori', 'Electro', 4, 'Claymore');
 INSERT INTO characters (characterName, element, rarity, weaponType) VALUES ('Sethos', 'Electro', 4, 'Bow');
 INSERT INTO characters (characterName, element, rarity, weaponType) VALUES ('Ororon', 'Electro', 4, 'Bow');
 INSERT INTO characters (characterName, element, rarity, weaponType) VALUES ('Iansan', 'Electro', 4, 'Polearm');
 INSERT INTO characters (characterName, element, rarity, weaponType) VALUES ('Traveler', 'Electro', 5, 'Sword');
 INSERT INTO characters (characterName, element, rarity, weaponType) VALUES ('Keqing', 'Electro', 5, 'Sword');
-INSERT INTO characters (characterName, element, rarity, weaponType) VALUES ('Raiden Shogun', 'Electro', 5, 'Polearm');
-INSERT INTO characters (characterName, element, rarity, weaponType) VALUES ('Yea Miko', 'Electro', 5, 'Catalyst');
+INSERT INTO characters (characterName, element, rarity, weaponType) VALUES ('Raiden_Shogun', 'Electro', 5, 'Polearm');
+INSERT INTO characters (characterName, element, rarity, weaponType) VALUES ('Yea_Miko', 'Electro', 5, 'Catalyst');
 INSERT INTO characters (characterName, element, rarity, weaponType) VALUES ('Cyno', 'Electro', 5, 'Polearm');
 INSERT INTO characters (characterName, element, rarity, weaponType) VALUES ('Clorinde', 'Electro', 5, 'Sword');
 INSERT INTO characters (characterName, element, rarity, weaponType) VALUES ('Varesa', 'Electro', 5, 'Catalyst');
@@ -63,7 +63,7 @@ INSERT INTO characters (characterName, element, rarity, weaponType) VALUES ('Can
 INSERT INTO characters (characterName, element, rarity, weaponType) VALUES ('Traveler', 'Hydro', 5, 'Sword');
 INSERT INTO characters (characterName, element, rarity, weaponType) VALUES ('Tartaglia', 'Hydro', 5, 'Bow');
 INSERT INTO characters (characterName, element, rarity, weaponType) VALUES ('Mona', 'Hydro', 5, 'Catalyst');
-INSERT INTO characters (characterName, element, rarity, weaponType) VALUES ('Sangonomia Kokomi', 'Hydro', 5, 'Catalyst');
+INSERT INTO characters (characterName, element, rarity, weaponType) VALUES ('Sangonomia_Kokomi', 'Hydro', 5, 'Catalyst');
 INSERT INTO characters (characterName, element, rarity, weaponType) VALUES ('Kamisato Ayato', 'Hydro', 5, 'Sword');
 INSERT INTO characters (characterName, element, rarity, weaponType) VALUES ('Yelan', 'Hydro', 5, 'Bow');
 INSERT INTO characters (characterName, element, rarity, weaponType) VALUES ('Nilou', 'Hydro', 5, 'Sword');
@@ -84,7 +84,7 @@ INSERT INTO characters (characterName, element, rarity, weaponType) VALUES ('Cha
 INSERT INTO characters (characterName, element, rarity, weaponType) VALUES ('Qiqi', 'Cryo', 5, 'Sword');
 INSERT INTO characters (characterName, element, rarity, weaponType) VALUES ('Ganyu', 'Cryo', 5, 'Bow');
 INSERT INTO characters (characterName, element, rarity, weaponType) VALUES ('Eula', 'Cryo', 5, 'Claymore');
-INSERT INTO characters (characterName, element, rarity, weaponType) VALUES ('Kamisato Ayaka', 'Cryo', 5, 'Sword');
+INSERT INTO characters (characterName, element, rarity, weaponType) VALUES ('Kamisato_Ayaka', 'Cryo', 5, 'Sword');
 INSERT INTO characters (characterName, element, rarity, weaponType) VALUES ('Aloy', 'Cryo', 5, 'Bow');
 INSERT INTO characters (characterName, element, rarity, weaponType) VALUES ('Shenhe', 'Cryo', 5, 'Polearm');
 INSERT INTO characters (characterName, element, rarity, weaponType) VALUES ('Wriothesley', 'Cryo', 5, 'Catalyst');
@@ -94,20 +94,20 @@ INSERT INTO characters (characterName, element, rarity, weaponType) VALUES ('Esc
 -- Anemo Characters
 INSERT INTO characters (characterName, element, rarity, weaponType) VALUES ('Sucrose', 'Anemo', 4, 'Catalyst');
 INSERT INTO characters (characterName, element, rarity, weaponType) VALUES ('Sayu', 'Anemo', 4, 'Claymore');
-INSERT INTO characters (characterName, element, rarity, weaponType) VALUES ('Shikanoin Heizou', 'Anemo', 4, 'Catalyst');
+INSERT INTO characters (characterName, element, rarity, weaponType) VALUES ('Shikanoin_Heizou', 'Anemo', 4, 'Catalyst');
 INSERT INTO characters (characterName, element, rarity, weaponType) VALUES ('Faruzan', 'Anemo', 4, 'Bow');
 INSERT INTO characters (characterName, element, rarity, weaponType) VALUES ('Lynette', 'Anemo', 4, 'Sword');
-INSERT INTO characters (characterName, element, rarity, weaponType) VALUES ('Lan Yan', 'Anemo', 4, 'Catalyst');
+INSERT INTO characters (characterName, element, rarity, weaponType) VALUES ('Lan_Yan', 'Anemo', 4, 'Catalyst');
 INSERT INTO characters (characterName, element, rarity, weaponType) VALUES ('Ifa', 'Anemo', 4, 'Catalyst');
 INSERT INTO characters (characterName, element, rarity, weaponType) VALUES ('Traveler', 'Anemo', 5, 'Sword');
 INSERT INTO characters (characterName, element, rarity, weaponType) VALUES ('Jean', 'Anemo', 5, 'Sword');
 INSERT INTO characters (characterName, element, rarity, weaponType) VALUES ('Venti', 'Anemo', 5, 'Bow');
 INSERT INTO characters (characterName, element, rarity, weaponType) VALUES ('Xiao', 'Anemo', 5, 'Polearm');
-INSERT INTO characters (characterName, element, rarity, weaponType) VALUES ('Kaedehara Kazuha', 'Anemo', 5, 'Sword');
+INSERT INTO characters (characterName, element, rarity, weaponType) VALUES ('Kaedehara_Kazuha', 'Anemo', 5, 'Sword');
 INSERT INTO characters (characterName, element, rarity, weaponType) VALUES ('Wanderer', 'Anemo', 5, 'Catalyst');
 INSERT INTO characters (characterName, element, rarity, weaponType) VALUES ('Xianyun', 'Anemo', 5, 'Catalyst');
 INSERT INTO characters (characterName, element, rarity, weaponType) VALUES ('Chasca', 'Anemo', 5, 'Bow');
-INSERT INTO characters (characterName, element, rarity, weaponType) VALUES ('Yumemizuki Mizuki', 'Anemo', 5, 'Catalyst');
+INSERT INTO characters (characterName, element, rarity, weaponType) VALUES ('Yumemizuki_Mizuki', 'Anemo', 5, 'Catalyst');
 
 -- Geo Characters
 INSERT INTO characters (characterName, element, rarity, weaponType) VALUES ('Ningguang', 'Geo', 4, 'Catalyst');
